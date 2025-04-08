@@ -1,0 +1,1 @@
+# Senac.Wf.Algoritimo6
